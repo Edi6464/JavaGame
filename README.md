@@ -1,1 +1,2 @@
 # JavaGame
+A java application based on classic 'Escape the room' arcade games.Your goal is to reach the destination marked with 'X' on the map before the time is up. The player(P) must push the rock(K) on the pressure plate(?) in order to open the gate(#).Before the game starts, the application will choose a random map from a file and assign the player 3 lives.If the player health bar reaches 0, the game is over.
